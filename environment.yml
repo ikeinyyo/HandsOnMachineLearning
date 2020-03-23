@@ -1,0 +1,9 @@
+name: hands
+channels:
+  - defaults
+dependencies:
+  - python=3.6.8
+  - pip=19.2.2
+  - pip:
+      - ipykernel==5.1.2
+      - jupyter==1.0.0
